@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\TournamentTracker\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj": {}
+    "D:\\C#\\C# Projects github repo\\C-sharp-Projects\\TournamentTracker\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj": {}
   },
   "projects": {
-    "D:\\C#\\TournamentTracker\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj": {
+    "D:\\C#\\C# Projects github repo\\C-sharp-Projects\\TournamentTracker\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\TournamentTracker\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj",
+        "projectUniqueName": "D:\\C#\\C# Projects github repo\\C-sharp-Projects\\TournamentTracker\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj",
         "projectName": "TrackerUI",
-        "projectPath": "D:\\C#\\TournamentTracker\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj",
+        "projectPath": "D:\\C#\\C# Projects github repo\\C-sharp-Projects\\TournamentTracker\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj",
         "packagesPath": "C:\\Users\\Bilal Ahmed\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\TournamentTracker\\TrackerLibrary\\TrackerUI\\obj\\",
+        "outputPath": "D:\\C#\\C# Projects github repo\\C-sharp-Projects\\TournamentTracker\\TrackerLibrary\\TrackerUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

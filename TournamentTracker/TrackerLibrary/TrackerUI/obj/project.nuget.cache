@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hlX4UbQIamTnI8A9zZIOtNFqDGKcME3DLoPhfLQbQxzugDHbYvqKH5t4m6cr+fedQyLNDuC+j7r59IZX7hwXOQ==",
+  "dgSpecHash": "VEJ8i1m1xDIzV3P/zh87tEzNAtdmLUSByd1GjWqh1kG1KPIftSqr9hJrW7b+H1UmyMJ9j3oSS+DTva2VmwwDhw==",
   "success": true,
-  "projectFilePath": "D:\\C#\\TournamentTracker\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj",
+  "projectFilePath": "D:\\C#\\C# Projects github repo\\C-sharp-Projects\\TournamentTracker\\TrackerLibrary\\TrackerUI\\TrackerUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
